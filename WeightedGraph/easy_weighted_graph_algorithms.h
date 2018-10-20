@@ -1,0 +1,14 @@
+//
+// Created by Gian Riyanto on 13/6/18.
+//
+
+#ifndef WEIGHTEDGRAPH2_EASY_WEIGHTED_GRAPH_ALGORITHMS_H
+#define WEIGHTEDGRAPH2_EASY_WEIGHTED_GRAPH_ALGORITHMS_H
+
+
+class easy_weighted_graph_algorithms {
+
+};
+
+
+#endif //WEIGHTEDGRAPH2_EASY_WEIGHTED_GRAPH_ALGORITHMS_H
